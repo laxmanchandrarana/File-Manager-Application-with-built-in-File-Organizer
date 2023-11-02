@@ -1,0 +1,8 @@
+{
+    "python.languageServer": "Pylance",
+    "pylint.path": [
+        "C:/Users/laxma/OneDrive/Documents/ArduinoData/packages/esp8266\tools/python3/3.7.2-post1",
+        "-m",
+        "pylint"
+    ]
+}
